@@ -1,1 +1,2 @@
 # repo_frontend
+Create a Task Manager Web App that allows users to efficiently manage their daily tasks. The application should have a user-friendly interface with features such as task creation, editing, deletion, and marking tasks as completed. Additionally, users should be able to categorize tasks, set due dates, and prioritize them. The Task Manager should provide a clean and intuitive design, making it easy for users to stay organized and focused on their responsibilities. Use HTML for the structure, CSS for styling, and JavaScript for dynamic functionality.
